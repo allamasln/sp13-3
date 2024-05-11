@@ -1,0 +1,16 @@
+{
+	"name": "password-plaintext",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node --watch server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bcrypt": "^5.1.1",
+		"express": "^4.19.2"
+	}
+}
